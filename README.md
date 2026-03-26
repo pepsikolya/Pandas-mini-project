@@ -1,11 +1,11 @@
 # Employee Data Manager
 
-A command-line tool for loading, cleaning, and analyzing employee data from CSV file. Built with Python and pandas as part of learning data analysis fundamentals.
+A command line tool for loading, cleaning, and analyzing employee data from CSV file. Built with Python and pandas as part of learning data analysis fundamentals.
 
 ## Features
 
 **Data cleaning** — removes duplicate records and handles missing values
-**Statistics** — median salary/age imputation, filtering by age and salary, mean salary grouped by position
+**Statistics** — median salary/age, filtering by age and salary, mean salary grouped by position
 **Employee search** — case insensitive name lookup
 **Export** — saves cleaned data back to CSV
 
