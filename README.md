@@ -1,6 +1,6 @@
 # Employee Data Manager
 
-A command line tool for loading, cleaning, and analyzing employee data from CSV file. Built with Python and basic pandas as part of ## learning data analysis fundamentals.
+A command line tool for loading, cleaning, and analyzing employee data from CSV file. Built with Python and basic pandas as part of learning data analysis fundamentals.
 
 ## Features
 
